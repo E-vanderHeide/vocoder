@@ -1,4 +1,4 @@
-#N canvas 0 29 1278 769 10;
+#N canvas 0 29 851 769 10;
 #X obj 50 192 readsf~;
 #X obj 50 419 send~ modulator;
 #X msg 62 162 1;
